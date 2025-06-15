@@ -7,7 +7,7 @@ public class HelloWorldController {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Hello World This is my first app";
+		return "Hello World This is my first app1";
 	}
 
 }
